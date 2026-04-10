@@ -8,9 +8,15 @@
     <link href="/2026/04/10/my-first-note/"/>
     <url>/2026/04/10/my-first-note/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>证明：<br>$$ \int_{0}^{\infty} e^{-x^2} dx &#x3D; \frac{\sqrt{\pi}}{2} $$</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>-数学 -积分</tag>
+      
+    </tags>
     
   </entry>
   
