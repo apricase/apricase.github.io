@@ -4,11 +4,30 @@
   
   
   <entry>
-    <title>my first note</title>
-    <link href="/2026/04/10/my-first-note/"/>
-    <url>/2026/04/10/my-first-note/</url>
+    <title>mass-energy equivalence</title>
+    <link href="/2026/04/11/mass-energy%20equivalence/"/>
+    <url>/2026/04/11/mass-energy%20equivalence/</url>
     
-    <content type="html"><![CDATA[<p>证明：</p><p><span class="math display">$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$</span></p>]]></content>
+    <content type="html"><![CDATA[<p><spanclass="math inline"><em>E</em> = <em>m</em><em>c</em><sup>2</sup></span></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>物理</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Gaussian intergral</title>
+    <link href="/2026/04/10/Gaussian%20intergral/"/>
+    <url>/2026/04/10/Gaussian%20intergral/</url>
+    
+    <content type="html"><![CDATA[<p><span class="math display">$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$</span></p>]]></content>
     
     
     
