@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>my first note</title>
+    <link href="/2026/04/10/my-first-note/"/>
+    <url>/2026/04/10/my-first-note/</url>
+    
+    <content type="html"><![CDATA[<p>证明：</p><p>这是行内公式：$ \int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2} $</p><p>这是独立块公式（注意前后的绝对空行）：</p><script type="math/tex; mode=display">\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>物理</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
