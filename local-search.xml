@@ -8,13 +8,13 @@
     <link href="/2026/04/10/my-first-note/"/>
     <url>/2026/04/10/my-first-note/</url>
     
-    <content type="html"><![CDATA[<p>证明：</p><p>这是行内公式：$ _{0}^{} e<sup>{-x</sup>2} dx = $</p><p>这是独立块公式（注意前后的绝对空行）：</p><p><span class="math display">$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$</span></p><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>]]></content>
+    <content type="html"><![CDATA[<p>证明：</p><p><span class="math display">$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$</span></p>]]></content>
     
     
     
     <tags>
       
-      <tag>物理</tag>
+      <tag>数学，积分</tag>
       
     </tags>
     
